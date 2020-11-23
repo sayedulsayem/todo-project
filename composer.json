@@ -1,0 +1,20 @@
+{
+    "name": "sayedulsayem/todo-project",
+    "description": "A assignment project for job interview",
+    "type": "project",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "sayedulsayem",
+            "email": "sayedulsayem@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Todo_Project\\": "includes/"
+        },
+        "files": []
+    }
+}
